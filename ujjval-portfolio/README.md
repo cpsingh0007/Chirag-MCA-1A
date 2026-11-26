@@ -1,4 +1,4 @@
-# Ujjval Kushavaha — Portfolio (React + Vite + GSAP + Three.js)
+# Chirag — Portfolio (React + Vite + GSAP + Three.js)
 ```
 npm install
 npm run dev      # local dev server
